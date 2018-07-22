@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <!-- Questions -->
+    <string name="first_question">Which one of the following languages is NOT used to develop android apps ?</string>
+    <string name="second_question">FrameLayout is designed to display a single item at a time:</string>
+    <string name="third_question">What\'s the name of the latest android version ?</string>
+    <string name="fourth_question">Select mandatory attributes for any view: </string>
+
+    <!--1st question suggestions-->
+    <string name="java">Java</string>
+    <string name="go">GoLang</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="dart">Dart</string>
+
+    <!--2nd question suggestions-->
+    <string name="true_suggestion">true</string>
+    <string name="false_suggestion">false</string>
+
+    <!--4th question suggestions-->
+    <string name="id">id</string>
+    <string name="width">layout_width</string>
+    <string name="height">layout_height</string>
+    <string name="margin">layout_margin</string>
+
+    <!--Score display messages-->
+    <string name="top_score_message">Congratulations all your answers were correct! Your score is %d/4</string>
+    <string name="normal_score_message">You had %d/4 correct answers</string>
+    <string name="fail_score_message">You really need to work harder! You had no correct answer</string>
+
+    <string name="hint">Enter your answer here</string>
+    <string name="submit">Submit</string>
+</resources>
